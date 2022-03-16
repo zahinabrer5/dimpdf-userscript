@@ -1,8 +1,8 @@
 # DimPDF
 
-### Make your PDFs easier on the eyes
-
 ![DimPDF](/images/logo/dimpdf128.png)
+
+### Make your PDFs easier on the eyes
 
 Simple Tampermonkey userscript that adds an inverted colour overlay to both local PDFs and PDFs hosted on the internet.
 
