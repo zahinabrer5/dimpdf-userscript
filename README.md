@@ -22,7 +22,7 @@ Simple Tampermonkey userscript that adds an inverted colour overlay to both loca
 
 ### How to Install
 
-1. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+1. Install <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo" target="_blank">Tampermonkey</a>
 
 2. Click this [link](https://raw.githubusercontent.com/zahinabrer5/dimpdf-userscript/main/DimPDF.user.js) and click 'Install'
 
