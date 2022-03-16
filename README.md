@@ -24,7 +24,7 @@ Simple Tampermonkey userscript that adds an inverted colour overlay to both loca
 
 2. Click this [link](https://raw.githubusercontent.com/zahinabrer5/dimpdf-userscript/main/index.js) and click 'Install'
 
-3. Go to [chrome://extensions](chrome://extensions)
+3. Go to [the Chrome Extensions page](chrome://extensions)
 
 4. Click on the 'Details' button for the Tampermonkey extension
 
