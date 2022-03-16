@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         DimPDF
-// @namespace    https://github.com/zahinabrer5/dimpdf-userscript
+// @namespace    https://github.com/zahinabrer5/dimpdf-userscript/
 // @version      0.0.1
 // @description  Make your PDFs easier on the eyes
 // @author       Zahin Abrer
 // @match        http://*/*.pdf
 // @match        https://*/*.pdf
 // @match        file://*/*.pdf
+// @run-at       document-idle
 // @icon         none
 // @grant        none
 // ==/UserScript==
